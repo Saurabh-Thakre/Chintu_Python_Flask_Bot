@@ -1,6 +1,8 @@
 # Chintu Python Flask Chat Bot
 AI you can train however you want ;)
 
+## You can read more about how to install and run ChatBot in your system : https://saurabhthakre.medium.com/bored-of-talking-to-humans-try-chatbot-f7140b0789bd
+
 
 ## Release History
 
